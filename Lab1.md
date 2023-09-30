@@ -16,3 +16,5 @@ Need to ask about leaq pml4(%rip), %rax. Because result is always the same, but 
 
 ### 5. Why is there no need to update the GDT in the start code, unlike CR3?
 Because CR3 is used for memory address translating, but the memory itself is not a virtual and has only one segment, so no need to save info about it in GDT. 
+
+
