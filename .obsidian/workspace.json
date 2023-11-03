@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "2c630ab9a0f86c89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms/Списки тем.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3fcf8448aeade58f",
             "type": "leaf",
             "state": {
@@ -30,8 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a324333fb6e6a443",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utils info/Docker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lab1/Вопросы на сдаче.md",
+                "file": "Utils info/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lab1/Вопросы на сдаче.md",
+                "file": "Utils info/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab1/Вопросы на сдаче.md"
+                "file": "Utils info/Docker.md"
               }
             }
           }
@@ -158,14 +183,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "719ad4ed6d65c2d6",
+  "active": "a324333fb6e6a443",
   "lastOpenFiles": [
-    "Lab2/Вопросы к сдаче.md",
+    "Utils info/Docker.md",
+    "Utils info",
     "Lab1/Вопросы на сдаче.md",
+    "Algorithms/Списки тем.md",
+    "Algorithms",
+    "Lab2/Вопросы к сдаче.md",
     "Lab1/Lab1.md",
     "Lab2/frame.png",
     "Lab2/Снимок экрана от 2023-10-13 17-35-19.png",
-    "Без названия.md",
     "Lab2",
     "Lab1",
     "Lab 1.md",
