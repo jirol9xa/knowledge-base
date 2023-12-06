@@ -8,14 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "15489f10387003c2",
+            "id": "150c475e942be2d4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cisco labs/Vlan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "967ac9e765f669bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cisco labs/STP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af735321442bff74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cisco labs/Базовые фичи.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cisco labs/STP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cisco labs/STP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cisco labs/STP.md"
+              }
             }
           }
         ]
@@ -138,8 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15489f10387003c2",
+  "active": "693473dfd6b6715a",
   "lastOpenFiles": [
+    "Cisco labs/Vlan.md",
+    "Cisco labs/STP.md",
+    "Cisco labs/Базовые фичи.md",
+    "Cisco labs",
     "Вопросы на сдаче.md",
     "Utils info/Docker.md",
     "Utils info",
