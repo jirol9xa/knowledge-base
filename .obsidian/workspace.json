@@ -1,76 +1,35 @@
 {
   "main": {
-    "id": "91bdabde9175ff50",
+    "id": "a1f01936cbb46e96",
     "type": "split",
     "children": [
       {
-        "id": "01334a5820706092",
+        "id": "dd69d254995a2dd9",
         "type": "tabs",
         "children": [
           {
-            "id": "719ad4ed6d65c2d6",
+            "id": "15489f10387003c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lab1/Вопросы на сдаче.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c630ab9a0f86c89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithms/Списки тем.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3fcf8448aeade58f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lab2/Вопросы к сдаче.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a324333fb6e6a443",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Utils info/Docker.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "069f254057422d1e",
+    "id": "8a79b7a72237ee77",
     "type": "split",
     "children": [
       {
-        "id": "51a4e95d450f36c8",
+        "id": "719e13ce2ff3a544",
         "type": "tabs",
         "children": [
           {
-            "id": "51b7c56a29378d6d",
+            "id": "693473dfd6b6715a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -80,7 +39,7 @@
             }
           },
           {
-            "id": "418120c8526a0838",
+            "id": "f25928ae64e1a7a5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -95,7 +54,7 @@
             }
           },
           {
-            "id": "3d93f1981b3e99ca",
+            "id": "8e4cdc0075ced402",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -109,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "e2e6acb155e59b94",
+    "id": "72b900a3a1aaa500",
     "type": "split",
     "children": [
       {
-        "id": "bc3fea6e63b086c2",
+        "id": "27f8506eed2d3265",
         "type": "tabs",
         "children": [
           {
-            "id": "9288336b43fd4640",
+            "id": "45aa4ef7338f2508",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utils info/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,19 +92,18 @@
             }
           },
           {
-            "id": "ee346d99b3c207ca",
+            "id": "6bd72122ab761674",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utils info/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "449d885d3cbb5d01",
+            "id": "7c0158290ef79f03",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -157,13 +114,11 @@
             }
           },
           {
-            "id": "6c5da3acc3e92915",
+            "id": "f576be393f3fec33",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Utils info/Docker.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -175,28 +130,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "a324333fb6e6a443",
+  "active": "15489f10387003c2",
   "lastOpenFiles": [
+    "Вопросы на сдаче.md",
     "Utils info/Docker.md",
     "Utils info",
-    "Lab1/Вопросы на сдаче.md",
-    "Algorithms/Списки тем.md",
-    "Algorithms",
     "Lab2/Вопросы к сдаче.md",
-    "Lab1/Lab1.md",
     "Lab2/frame.png",
-    "Lab2/Снимок экрана от 2023-10-13 17-35-19.png",
     "Lab2",
+    "Lab1/Вопросы на сдаче.md",
+    "Lab1/Lab1.md",
     "Lab1",
-    "Lab 1.md",
-    "Программирование.md"
+    "Algorithms/Списки тем.md",
+    "Algorithms"
   ]
 }
