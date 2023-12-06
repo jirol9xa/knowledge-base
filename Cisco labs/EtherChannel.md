@@ -17,6 +17,7 @@
 Основные команды:
 * interface range begin/end <--- например interface range fa0/1-2
 * channel-group <номер группы> mode <нужный режим>  <--- объединяет интерфейсы в один логический. Не рекомендуется использовать режим "active" в более чем одном месте, поэтому если с одной стороны у нас есть "active", то с другой стороны должен быть "passive".
+* channel-protocol <-- выбор протокола для виртуального канала.
 * show etherchannel
 * show etherchannel summary <--- покажет протоколы, по которым работают различные порты
 * show etherchannel port-channel
